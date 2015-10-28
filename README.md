@@ -1,2 +1,2 @@
 # Build the Google.com Home Page and Search Results Page
-# http://www.theodinproject.com/web-development-101/html-css
+https://htmlpreview.github.io/?https://github.com/nidafarooqui/google-homepage/blob/master/google.html
