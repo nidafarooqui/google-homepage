@@ -1,5 +1,9 @@
-body {
-  margin: 0;
+* {
+	margin: 0;
+}
+
+html, body {
+  height: 100%;
 }
 
 .google-search {  
@@ -122,13 +126,26 @@ a:link, a:visited {
 	position: relative;
 }
 
+#wrapper {
+	
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -3em;
+}
+
+#footer, #push {
+	height: 3em;
+}
+
 #footer {
 
     top: 120px;
     background-color: #f2f2f2;
-    height: 47px;
+    width: 100%;
     clear: both;
-    position: relative;
+    
+
 
 }
 
